@@ -1,0 +1,11 @@
+Index	Instruction
+----------------------------------------
+0	INCR &X,&Y
+1	MOVER &X,&Y
+2	DECR &X,&Y
+3	MOVEM &Y,&X
+4	PRN &X,&Y,&Z
+5	MOVER &X,&Y
+6	MOVEM &Y,&Z
+7	PRINT &X,&Y
+8	PRINT &Z

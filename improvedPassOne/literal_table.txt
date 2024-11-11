@@ -1,0 +1,4 @@
+Literal        	Address 	Assigned
+='5'           	109     	Y       
+='3'           	110     	Y       
+='2'           	111     	Y       

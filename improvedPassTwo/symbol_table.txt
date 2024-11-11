@@ -1,0 +1,7 @@
+Symbol    	Address 	Defined
+VAR1      	109     	Y       
+VAR2      	109     	Y       
+VAR3      	109     	Y       
+VAR4      	109     	Y       
+VAR5      	109     	Y       
+LABEL     	109     	Y       
